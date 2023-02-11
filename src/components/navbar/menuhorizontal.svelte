@@ -36,7 +36,7 @@ function activeMenu(){
 		</ul>
 		<div class='hidden lg:flex lg:gap-x-7'>
 			<button class='capitalize hover:text-azul duration-200'>try live for free</button>
-			<button class='relative text-xs px-4 py-2 text-tomato capitalize border-2 border-tomato/10 duration-300 font-medium after:absolute after:w-full after:h-full after:inset-0 after:border-2 after:border-tomato after:opacity-0 after:scale-125 after:duration-300 hover:after:scale-100 hover:after:opacity-100'>log in or register</button>
+			<button class='relative text-xs px-4 py-2 text-tomato capitalize border-2 border-tomato/10 duration-300 font-medium after:absolute after:w-full after:h-full after:-inset-1 after:box-content after:border-[3px] after:border-tomato after:opacity-0 after:scale-125 after:duration-300 hover:after:scale-100 hover:after:opacity-100'>log in or register</button>
 		</div>
 	</div>
 </section>

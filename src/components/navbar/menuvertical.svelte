@@ -15,7 +15,7 @@ import { menu } from '../../store.js'
 	<ul class='flex flex-col'>
 		<Item title='try live for free'/>
 		<li>
-			<button class='mb-[1em] relative text-xs px-4 py-2 border-2 border-azul/20 capitalize font-medium after:absolute after:w-full after:h-full after:inset-0 after:border-2 after:opacity-0 after:scale-125 after:duration-300 hover:after:scale-100 hover:after:opacity-100 hover:after:border-azul'>log in or register</button>
+			<button class='mb-[1em] relative text-xs px-4 py-2 border-2 border-azul/20 capitalize font-medium after:absolute after:w-full after:h-full after:-inset-1 after:box-content after:border-[3px] after:opacity-0 after:scale-125 after:duration-300 hover:after:scale-100 hover:after:opacity-100 hover:after:border-azul'>log in or register</button>
 		</li>
 	</ul>
 	<div class='lg:hidden'>

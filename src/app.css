@@ -3,4 +3,4 @@
 @tailwind utilities;
 
 ::-webkit-scrollbar {width: 0.4rem;}
-::-webkit-scrollbar-thumb {background-color:#d5b3ff; border-radius: 50px;}
+::-webkit-scrollbar-thumb {background-color:#ff764d; border-radius: 50px;}

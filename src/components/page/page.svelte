@@ -4,7 +4,7 @@ import SectionImage from './sectionimage.svelte'
 import HeaderPage from './headerpage.svelte'
 </script>
 
-<main class='pt-10'>
+<main class='pt-10 overflow-hidden'>
 	<div class='w-[90%] mx-auto'>
 
 		<HeaderPage/>
@@ -35,7 +35,7 @@ import HeaderPage from './headerpage.svelte'
 		<SectionImage bg='bg-lila' tipo='2'/>
 
 		<SectionTexto 
-		subtitulo='>We want our employees to love it here. Since we’re looking for exceptional talent from around the world, we will do everything we can to make your transition as easy as possible.' 
+		subtitulo='We want our employees to love it here. Since we’re looking for exceptional talent from around the world, we will do everything we can to make your transition as easy as possible.' 
 		parrafo='If you’re joining us in Berlin, well help with relocation and paperwork. We’ll even provide you with free German or English lessons. Plus, working in Germany means you can expect comprehensive health insurance for you and your family, as well as generous maternity and paternity leave. Office hours are flexible, but it’s not all work; we have several company and team outings throughout the year as well as a variety of fun, informal small-group activities.'/>
 
 		<SectionImage bg='bg-cielo' tipo='3'/>

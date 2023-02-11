@@ -1,5 +1,5 @@
 <script>
-const estilo = ['top-0 left-[35%] bottom-0 -right-16','top-0 -left-16 bottom-0 right-[35%]','top-[7%] left-[12%] bottom-[7%] right-[12%]','top-0 left-[27%] bottom-0 right-[27%]']
+const estilo = ['top-0 left-[35%] bottom-0 -right-8 lg:-right-20','top-0 -left-20 bottom-0 right-[35%]','left-[12%] top-[7%] bottom-[7%] right-[12%]','top-0 left-[27%] bottom-0 right-[27%]']
 
 export let bg,tipo;
 </script>
